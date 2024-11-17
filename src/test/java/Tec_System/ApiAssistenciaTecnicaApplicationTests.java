@@ -1,4 +1,4 @@
-package Tec_System.Api.assistencia.tecnica;
+package Tec_System;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

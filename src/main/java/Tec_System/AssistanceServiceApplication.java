@@ -1,4 +1,4 @@
-package Tec_System.Api.assistencia.tecnica;
+package Tec_System;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
